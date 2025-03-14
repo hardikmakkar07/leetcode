@@ -4,7 +4,7 @@ public:
     {
         if(i==-1||j==-1||i==n||j==m)
             return;
-        if(grid[i][j]==1)
+        if(grid[i][j])
         {
             grid[i][j]=0;
             dfs(i+1,j,n,m,grid);
