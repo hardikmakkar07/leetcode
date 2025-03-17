@@ -4,38 +4,31 @@ public:
     {
         queue<int> q;
         q.push(i);
-        int col = 1;
+        vis[i] = 0;
         while(!q.empty())
         {
-            int h = q.size();
-            for(int i = 0; i<h; i++)
+            int x = q.front();
+            q.pop();
+            for(int i = 0; i<graph[x].size(); i++)
             {
-                int x = q.front();
-                q.pop();
-                if(!vis[x])
-                    vis[x] = col;
-                else if(vis[x]!=col)
-                    return false;
-                for(int j = 0; j<graph[x].size();  j++)
+                if(vis[graph[x][i]]==-1)
                 {
-                    if(!vis[graph[x][j]])
-                        q.push(graph[x][j]);
+                    vis[graph[x][i]] = !vis[x];
+                    q.push(graph[x][i]);
                 }
+                else if(vis[graph[x][i]]==vis[x])
+                    return false;
             }
-            if(col==1)
-                col = 2;
-            else
-                col = 1;
         }
         return true;
     }
     bool isBipartite(vector<vector<int>>& graph) 
     {
         int n = graph.size();
-        vector<int> vis(n,0);
+        vector<int> vis(n,-1);
         for(int i = 0; i<n; i++)
         {
-            if(!vis[i])
+            if(vis[i]==-1)
             {
                 if(!colour(i,graph,vis))
                     return false;
