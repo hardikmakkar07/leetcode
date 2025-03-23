@@ -16,7 +16,7 @@ public:
     long long ans(long long l, long long r) 
     {
         long long sum = 0;
-        for (long long i = 1; i < 20; i++) 
+        for (long long i = 1; i < 16; i++) 
         {
             long long mi = power(4,i-1);
             long long ma = power(4,i)-1;
