@@ -3,19 +3,25 @@ public:
     int minimumIndex(vector<int>& nums) 
     {
         int n = nums.size();
-        map<int,int>mp;
-        for(int x: nums)
+        int freq = 0, x;
+        for(int i = 0; i<n; i++)
         {
-            mp[x]++;
-        }
-        int ma = 0, x;
-        for(auto &it: mp)
-        {
-            if(it.second>ma)
+            if(freq==0)
             {
-                x = it.first;
-                ma = it.second;
+                x = nums[i];
+                freq++;
             }
+            else if(nums[i]==x)
+                freq++;
+            else if(nums[i]!=x)
+                freq--;
+        }
+
+        int ma = 0;
+        for(int i = 0; i<n; i++)
+        {
+            if(nums[i]==x)
+                ma++;
         }
         int ans = -1, count = 0;
         for(int i = 0; i<n; i++)
