@@ -1,7 +1,7 @@
 class Solution 
 {
 public:
-    bool dfs(int i, vector<vector<int>> &graph, vector<bool> &vis, vector<bool> &pathVis)
+    bool dfs(int i, vector<bool> &vis, vector<bool> &pathVis, vector<vector<int>> &graph)
     {
         vis[i] = true;
         pathVis[i] = true;
@@ -9,7 +9,7 @@ public:
         {
             if(!vis[graph[i][j]])
             {
-                if(dfs(graph[i][j],graph,vis,pathVis))
+                if(dfs(graph[i][j],vis,pathVis,graph))
                     return true;
             }
             else if(pathVis[graph[i][j]])
@@ -22,17 +22,18 @@ public:
     {
         int n = graph.size();
         vector<bool> vis(n,false), pathVis(n,false);
+
         for(int i = 0; i<n; i++)
         {
             if(!vis[i])
-                dfs(i,graph,vis,pathVis);
+                dfs(i,vis,pathVis,graph);
         }
-        vector<int> a;
+        vector<int> ans;
         for(int i = 0; i<n; i++)
         {
             if(!pathVis[i])
-                a.push_back(i);
+                ans.push_back(i);
         }
-        return a;
+        return ans;
     }
 };
