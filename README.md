@@ -63,4 +63,12 @@
 |  |
 | ------- |
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hardikmakkar07/leetcode/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hardikmakkar07/leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
