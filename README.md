@@ -8,6 +8,7 @@
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
+| [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Depth-First Search
 |  |
@@ -38,6 +39,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Graph
 |  |
 | ------- |
