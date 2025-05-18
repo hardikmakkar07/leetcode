@@ -5,22 +5,23 @@ public:
         int n = s.size(), ans = 0;
         for(int i = 0; i<n; i++)
         {
-            map<char,int> mp;
+            vector<int> mp(26,0);
             for(int j = i; j<n; j++)
             {
-                mp[s[j]]++;
-                if(mp.size()>1)
+                mp[s[j]-'a']++;
+                int mini = INT_MAX, maxi = INT_MIN;
+                for(int k = 0; k<26; k++)
                 {
-                    int mini = INT_MAX, maxi = INT_MIN;
-                    for(auto it: mp)
+                    if(mp[k]!=0)
                     {
-                        if(it.second>maxi)
-                            maxi = it.second;
-                        if(it.second<mini)
-                            mini = it.second;
+                        if(mp[k]>maxi)
+                            maxi = mp[k];
+                        if(mp[k]<mini)
+                            mini = mp[k];
                     }
-                    ans+=(maxi-mini);
                 }
+                if(mini>0)
+                    ans+=(maxi-mini);
             }
         }
         return ans;
