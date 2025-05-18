@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -41,6 +42,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Graph
 |  |
@@ -79,4 +81,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 <!---LeetCode Topics End-->
