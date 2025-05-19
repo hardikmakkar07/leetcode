@@ -7,6 +7,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
@@ -75,6 +76,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/hardikmakkar07/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hardikmakkar07/leetcode/tree/master/0050-powx-n) |
+| [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -96,4 +98,12 @@
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/hardikmakkar07/leetcode/tree/master/0050-powx-n) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
