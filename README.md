@@ -89,6 +89,7 @@
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
@@ -106,4 +107,12 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
