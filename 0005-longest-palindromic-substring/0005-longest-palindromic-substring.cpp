@@ -1,35 +1,42 @@
 class Solution {
 public:
-    bool pallindrome(string &s, int i, int j)
+    pair<int,int> calc(string &s, int l, int r)
     {
-        int l = i, r = j;
-        while(l<r)
+        int n = s.size();
+        while(l>=0 && r<=n-1 && s[l]==s[r])
         {
-            if(s[l]!=s[r])
-                return false;
-            l++;
-            r--;
+            l--;
+            r++;
         }
-        return true;
+        return {l+1,r-1};
     }
     string longestPalindrome(string s) 
     {
-        int h, k, ma = 0, n = s.size();
-        for(int i = 0; i<n; i++)
+        int n = s.size();
+        if(n==1)
+            return s;
+        int ans = 0;
+        int l, r;
+        string a;
+        for(int i = 0; i<n-1; i++)
         {
-            for(int j = i; j<n; j++)
+            pair<int,int> odd = calc(s,i,i);
+            pair<int,int> even = calc(s,i,i+1);
+            if(odd.second-odd.first+1>ans)
             {
-                if((j-i+1)>ma && pallindrome(s,i,j))
-                {
-                    ma = j-i+1;
-                    h = j;
-                    k = i;
-                }
+                l = odd.first;
+                r = odd.second;
+                ans = r-l+1;
+            }
+            if(even.second-even.first+1>ans)
+            {
+                l = even.first;
+                r = even.second;
+                ans = r-l+1;
             }
         }
-        string ans;
-        for(int i = k; i<=h; i++)
-            ans.push_back(s[i]);
-        return ans;
+        for(int i = l; i<=r; i++)
+            a.push_back(s[i]);
+        return a;
     }
 };
