@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hardikmakkar07/leetcode/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/hardikmakkar07/leetcode/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,4 +92,8 @@
 |  |
 | ------- |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/hardikmakkar07/leetcode/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
