@@ -19,9 +19,7 @@ public:
             int d = q.front()[2];
             q.pop();
             if(x==n-1 && y==n-1)
-            {
-                ans = min(ans,d);
-            }
+                return d;
             if(x<n-1 && grid[x+1][y]==0 && !vis[x+1][y])
             {
                 q.push({x+1,y,d+1});
@@ -63,8 +61,6 @@ public:
                 vis[x-1][y-1] = true;
             }
         }
-        if(ans==1e9)
-            return -1;
-        return ans;
+        return -1;
     }
 };
