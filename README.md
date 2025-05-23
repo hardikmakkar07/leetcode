@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -31,6 +32,7 @@
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 ## Union Find
 |  |
 | ------- |
@@ -43,6 +45,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
+| [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [2047-find-a-peak-element-ii](https://github.com/hardikmakkar07/leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 ## Graph
