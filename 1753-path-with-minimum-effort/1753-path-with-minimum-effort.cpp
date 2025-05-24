@@ -13,6 +13,8 @@ public:
             auto it = *st.begin();
             int x = it[1], y = it[2], dif = it[0];
             st.erase(it);
+            if(dist[x][y]<dif) continue;
+            if(x==n-1 && y==m-1) return dif;
             if(x>0 && max(abs(heights[x-1][y]-heights[x][y]),dif)<dist[x-1][y])
             {
                 dist[x-1][y] = max(abs(heights[x-1][y]-heights[x][y]),dif);
