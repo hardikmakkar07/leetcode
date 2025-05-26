@@ -21,7 +21,7 @@ public:
             q.pop();
             int node = it.second;
             int d = it.first;
-            for(auto x: adj[node])
+            for(auto &x: adj[node])
             {
                 int newNode = x.first;
                 int len = x.second;
@@ -35,10 +35,10 @@ public:
         int x = 0;
         for(int i = 1; i<n+1; i++)
         {
-            if(dist[i]>x)
-                x = dist[i];
+            if(dist[i]==1e9)
+                return -1;
+            x = max(x,dist[i]);
         }
-        if(x==1e9) return -1;
         return x;
     }
 };
