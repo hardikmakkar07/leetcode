@@ -21,6 +21,7 @@
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -32,6 +33,7 @@
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -60,6 +62,7 @@
 | ------- |
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
+| [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
@@ -131,10 +134,12 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
 |  |
 | ------- |
+| [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
