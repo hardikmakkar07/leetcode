@@ -1,44 +1,37 @@
 class Solution {
 public:
-    int networkDelayTime(vector<vector<int>>& times, int n, int k) 
-    {
-        vector<vector<pair<int,int>>> adj(n+1,vector<pair<int,int>>());
-        for(auto it: times)
-            adj[it[0]].push_back({it[1],it[2]});
-        for(int i = 0; i<n+1; i++)
-        {
-            cout<<i<<endl;
-            for(int j = 0; j<adj[i].size(); j++)
-                cout<<adj[i][j].first<<" "<<adj[i][j].second<<endl;
+    int networkDelayTime(vector<vector<int>>& times, int n, int k) {
+        // Adj list {{wt,v}}
+        vector<vector<pair<int, int>>> adj(n + 1);
+        for (auto& d : times) {
+            int u = d[0];
+            int v = d[1];
+            int wt = d[2];
+            adj[u].push_back({wt, v});
         }
-        vector<int> dist(n+1,1e9);
-        dist[k] = 0;
-        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
-        q.push({0,k});
-        while(!q.empty())
-        {
-            auto it = q.top();
-            q.pop();
-            int node = it.second;
-            int d = it.first;
-            for(auto x: adj[node])
-            {
-                int newNode = x.first;
-                int len = x.second;
-                if(dist[newNode]>len+d)
-                {
-                    dist[newNode] = len+d;
-                    q.push({dist[newNode],newNode});
+        vector<int> dis(n + 1, INT_MAX);
+        dis[k] = 0;
+        priority_queue<pair<int, int>, vector<pair<int, int>>,
+                       greater<pair<int, int>>>
+            pq;
+        pq.push({0, k});
+        while (!pq.empty()) {
+            int node = pq.top().second;
+            pq.pop();
+            for (int i = 0; i < adj[node].size(); i++) {
+                if (dis[adj[node][i].second] > dis[node] + adj[node][i].first) {
+                    dis[adj[node][i].second] = dis[node] + adj[node][i].first;
+                    pq.push({dis[adj[node][i].second], adj[node][i].second});
                 }
             }
         }
-        int x = 0;
-        for(int i = 1; i<n+1; i++)
-        {
-            if(dist[i]>x)
-                x = dist[i];
+
+        int ans = 0;
+        for (int i = 1; i < dis.size(); i++) {
+            if (dis[i] == INT_MAX)
+                return -1;
+            ans = max(ans, dis[i]);
         }
-        if(x==1e9) return -1;
-        return x;
+        return ans;
     }
 };
