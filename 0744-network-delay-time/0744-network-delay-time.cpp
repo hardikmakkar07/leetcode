@@ -13,12 +13,12 @@ public:
         }
         vector<int> dist(n+1,1e9);
         dist[k] = 0;
-        set<pair<int,int>> q;
-        q.insert({0,k});
+        priority_queue<pair<int,int>, vector<pair<int,int>>, greater<pair<int,int>>> q;
+        q.push({0,k});
         while(!q.empty())
         {
-            auto it = *q.begin();
-            q.erase(it);
+            auto it = q.top();
+            q.pop();
             int node = it.second;
             int d = it.first;
             for(auto x: adj[node])
@@ -28,7 +28,7 @@ public:
                 if(dist[newNode]>len+d)
                 {
                     dist[newNode] = len+d;
-                    q.insert({dist[newNode],newNode});
+                    q.push({dist[newNode],newNode});
                 }
             }
         }
