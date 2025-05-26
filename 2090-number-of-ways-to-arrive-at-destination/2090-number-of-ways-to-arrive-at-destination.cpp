@@ -1,8 +1,8 @@
 class Solution {
 public:
-#define MOD 1000000007
     int countPaths(int n, vector<vector<int>>& roads) 
     {
+        const int MOD = 1e9+7;
         vector<vector<pair<long long, long long>>> adj(n);
         for(auto &it: roads)
         {
