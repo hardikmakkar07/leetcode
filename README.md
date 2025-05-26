@@ -22,6 +22,7 @@
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -32,6 +33,7 @@
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
@@ -59,6 +61,7 @@
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
 ## Hash Table
 |  |
@@ -124,8 +127,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
