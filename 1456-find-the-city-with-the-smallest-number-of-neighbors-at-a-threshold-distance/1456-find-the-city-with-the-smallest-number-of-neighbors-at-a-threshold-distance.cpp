@@ -2,13 +2,15 @@ class Solution {
 public:
     int findTheCity(int n, vector<vector<int>>& edges, int d) 
     {
-        vector<vector<int>> dist(n,vector<int>(n,0));
+        vector<vector<int>> dist(n,vector<int>(n));
         for(int i = 0; i<n; i++)
         {
             for(int j = 0; j<n; j++)
             {
                 if(i!=j)
                     dist[i][j] = 1e9;
+                else
+                    dist[i][j] = 0;
             }
         }
         for(int i = 0; i<edges.size(); i++)
