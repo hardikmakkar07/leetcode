@@ -2,8 +2,10 @@ class DisjointSet
 {
     vector<int> parent, rank;
 public:
+    int x;
     DisjointSet(int n)
     {
+        x = n;
         parent.resize(n+1);
         rank.resize(n+1,0);
         for(int i = 0; i<=n; i++)
@@ -18,6 +20,7 @@ public:
     }
     void unionByRank(int u, int v)
     {
+        x--;
         int ulp_u = findUPar(u);
         int ulp_v = findUPar(v);
         if(ulp_u==ulp_v) return;
@@ -48,11 +51,6 @@ public:
                 }
             }
         }
-        set<int>st;
-        for(int i = 0; i<n; i++)
-        {
-            st.insert(ds.findUPar(i));
-        }
-        return st.size();
+        return ds.x;
     }
 };
