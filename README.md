@@ -30,6 +30,7 @@
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hardikmakkar07/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/hardikmakkar07/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | [0029-divide-two-integers](https://github.com/hardikmakkar07/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/hardikmakkar07/leetcode/tree/master/0050-powx-n) |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/hardikmakkar07/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +163,8 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikmakkar07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hardikmakkar07/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Tree
+|  |
+| ------- |
+| [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/hardikmakkar07/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
 <!---LeetCode Topics End-->
