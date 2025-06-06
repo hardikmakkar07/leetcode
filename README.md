@@ -8,6 +8,7 @@
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -22,6 +23,7 @@
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hardikmakkar07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -38,6 +40,7 @@
 | [0207-course-schedule](https://github.com/hardikmakkar07/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/hardikmakkar07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0744-network-delay-time](https://github.com/hardikmakkar07/leetcode/tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -51,6 +54,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/hardikmakkar07/leetcode/tree/master/0547-number-of-provinces) |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikmakkar07/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
@@ -83,12 +87,14 @@
 ## Hash Table
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikmakkar07/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Sorting
 |  |
 | ------- |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Topological Sort
 |  |
@@ -122,6 +128,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
 |  |
