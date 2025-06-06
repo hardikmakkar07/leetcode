@@ -9,6 +9,7 @@
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
 | [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
+| [0854-making-a-large-island](https://github.com/hardikmakkar07/leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
@@ -28,6 +29,7 @@
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/hardikmakkar07/leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikmakkar07/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hardikmakkar07/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -45,6 +47,7 @@
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/hardikmakkar07/leetcode/tree/master/0820-find-eventual-safe-states) |
+| [0854-making-a-large-island](https://github.com/hardikmakkar07/leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hardikmakkar07/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -56,6 +59,7 @@
 | [0547-number-of-provinces](https://github.com/hardikmakkar07/leetcode/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/hardikmakkar07/leetcode/tree/master/0801-is-graph-bipartite) |
+| [0854-making-a-large-island](https://github.com/hardikmakkar07/leetcode/tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikmakkar07/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/hardikmakkar07/leetcode/tree/master/1442-number-of-operations-to-make-network-connected) |
@@ -65,6 +69,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
+| [0854-making-a-large-island](https://github.com/hardikmakkar07/leetcode/tree/master/0854-making-a-large-island) |
 | [1073-number-of-enclaves](https://github.com/hardikmakkar07/leetcode/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1753-path-with-minimum-effort](https://github.com/hardikmakkar07/leetcode/tree/master/1753-path-with-minimum-effort) |
