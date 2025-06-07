@@ -6,15 +6,12 @@ public:
     bool check(vector<vector<int>> &grid, int mid, int n)
     {
         priority_queue<pair<int,pair<int,int>>,vector<pair<int,pair<int,int>>>, greater<pair<int,pair<int,int>>>> pq;
-        vector<vector<bool>> vis(n,vector<bool>(n,false));
+        vector<bool> vis(n*n,false);
         if(grid[0][0]<=mid)
-        {
             pq.push({grid[0][0],{0,0}});
-            vis[0][0] = true;
-        }
         int dr[] = { -1, 0, 1, 0};
         int dc[] = {0, 1, 0, -1};
-        
+        vis[grid[0][0]] = true;
         while(!pq.empty())
         {
             int maxEle = pq.top().first;
@@ -27,10 +24,10 @@ public:
             {
                 int adjr = row+dr[ind];
                 int adjc = col+dc[ind];
-                if(isValid(adjr,adjc,n,n) && grid[adjr][adjc]<=mid && !vis[adjr][adjc])
+                if(isValid(adjr,adjc,n,n) && grid[adjr][adjc]<=mid && !vis[grid[adjr][adjc]])
                 {
                     int ma = max(maxEle,grid[adjr][adjc]);
-                    vis[adjr][adjc] = true;
+                    vis[grid[adjr][adjc]] = true;
                     pq.push({ma,{adjr,adjc}});
                 }
             }
