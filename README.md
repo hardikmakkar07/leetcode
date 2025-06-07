@@ -18,6 +18,7 @@
 | [2249-count-the-hidden-sequences](https://github.com/hardikmakkar07/leetcode/tree/master/2249-count-the-hidden-sequences) |
 | [2737-row-with-maximum-ones](https://github.com/hardikmakkar07/leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hardikmakkar07/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -106,6 +107,7 @@
 | ------- |
 | [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/hardikmakkar07/leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hardikmakkar07/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Topological Sort
 |  |
 | ------- |
@@ -186,4 +188,8 @@
 |  |
 | ------- |
 | [3844-number-of-ways-to-assign-edge-weights-i](https://github.com/hardikmakkar07/leetcode/tree/master/3844-number-of-ways-to-assign-edge-weights-i) |
+## Greedy
+|  |
+| ------- |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/hardikmakkar07/leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 <!---LeetCode Topics End-->
