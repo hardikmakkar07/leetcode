@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/hardikmakkar07/leetcode/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/hardikmakkar07/leetcode/tree/master/0204-count-primes) |
@@ -203,4 +204,5 @@
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/hardikmakkar07/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
