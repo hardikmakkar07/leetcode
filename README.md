@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardikmakkar07/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hardikmakkar07/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hardikmakkar07/leetcode/tree/master/0051-n-queens) |
@@ -76,6 +77,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardikmakkar07/leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/hardikmakkar07/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/hardikmakkar07/leetcode/tree/master/0200-number-of-islands) |
 | [0794-swim-in-rising-water](https://github.com/hardikmakkar07/leetcode/tree/master/0794-swim-in-rising-water) |
@@ -103,6 +105,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardikmakkar07/leetcode/tree/master/0037-sudoku-solver) |
 | [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/hardikmakkar07/leetcode/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -204,6 +207,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/hardikmakkar07/leetcode/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hardikmakkar07/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hardikmakkar07/leetcode/tree/master/0051-n-queens) |
