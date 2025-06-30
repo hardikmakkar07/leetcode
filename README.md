@@ -151,6 +151,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0131-palindrome-partitioning](https://github.com/hardikmakkar07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0721-accounts-merge](https://github.com/hardikmakkar07/leetcode/tree/master/0721-accounts-merge) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/hardikmakkar07/leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Counting
@@ -178,6 +179,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hardikmakkar07/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/hardikmakkar07/leetcode/tree/master/0070-climbing-stairs) |
+| [0131-palindrome-partitioning](https://github.com/hardikmakkar07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/hardikmakkar07/leetcode/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/hardikmakkar07/leetcode/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/hardikmakkar07/leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
@@ -214,6 +216,7 @@
 | [0040-combination-sum-ii](https://github.com/hardikmakkar07/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/hardikmakkar07/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/hardikmakkar07/leetcode/tree/master/0051-n-queens) |
+| [0131-palindrome-partitioning](https://github.com/hardikmakkar07/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/hardikmakkar07/leetcode/tree/master/0216-combination-sum-iii) |
 ## Memoization
 |  |
